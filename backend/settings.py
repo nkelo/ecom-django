@@ -41,7 +41,7 @@ INSTALLED_APPS = [
     'rest_framework',
     'corsheaders',
     
-    'base.apps',
+    'base.apps.BaseConfig',
 ]
 
 MIDDLEWARE = [
